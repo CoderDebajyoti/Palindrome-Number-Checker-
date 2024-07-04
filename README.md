@@ -10,7 +10,7 @@ A palindrome is a number that reads the same backward as forward. For example, 1
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/yourusername/palindrome-checker.git](https://github.com/CoderDebajyoti/Palindrome-Number-Checker-.git)
+    git clone https://github.com/CoderDebajyoti/Palindrome-Number-Checker-.git
     ```
 2. Navigate to the project directory:
     ```sh
