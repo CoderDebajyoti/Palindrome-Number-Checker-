@@ -33,3 +33,5 @@ A palindrome is a number that reads the same backward as forward. For example, 1
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
